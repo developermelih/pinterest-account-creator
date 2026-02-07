@@ -1,6 +1,8 @@
 # Pinterest Account Maker
 
-[![Pinterest Account Maker Demo](https://img.youtube.com/vi/hTzrKVIIgXk/maxresdefault.jpg)](https://www.youtube.com/watch?v=hTzrKVIIgXk)
+<a href="https://www.youtube.com/watch?v=hTzrKVIIgXk" target="_blank">
+ <img src="https://img.youtube.com/vi/hTzrKVIIgXk/maxresdefault.jpg" alt="Pinterest Account Maker Demo" style="width:100%; max-width:600px;">
+</a>
 
 Multi-threaded Pinterest account creator. Creates **email-verified** accounts using temporary mail (mail.gw), saves credentials and session cookies.
 
