@@ -1,0 +1,7 @@
+{
+  "proxy": "http://user:password@ip:port",
+  "impersonate": "chrome120",
+  "password_length": 14,
+  "inbox_api_base": "https://api.mail.gw",
+  "inbox_password": "ChangeMeSecure123!"
+}

@@ -1,0 +1,4 @@
+curl_cffi>=0.5.0
+fake_useragent>=1.4.0
+faker>=20.0.0
+colorama>=0.4.6
